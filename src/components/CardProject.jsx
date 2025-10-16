@@ -29,7 +29,7 @@ const CardProject = ({ Img, Title, Description, Link: ProjectLink, id }) => {
     
         <div className="relative p-5 z-10">
           <div className="relative overflow-hidden rounded-lg">
-            <img
+            <img 
               src={Img}
               alt={Title}
               className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"

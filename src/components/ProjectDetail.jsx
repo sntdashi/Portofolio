@@ -13,7 +13,7 @@ const TECH_ICONS = {
   Python: Code,
   Javascript: Code,
   HTML: Code,
-  CSS: Code,
+  CSS: Code, 
   default: Package,
 };
 

@@ -56,7 +56,7 @@ export default function NotFoundPage() {
             <Home size={20} />
             Beranda
           </button>
-        </div>
+        </div> 
 
        
 

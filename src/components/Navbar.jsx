@@ -158,7 +158,7 @@ const Navbar = () => {
                             }`}
                             style={{
                                 transitionDelay: `${index * 100}ms`,
-                                transform: isOpen ? "translateX(0)" : "translateX(50px)",
+                                transform: isOpen ? "translateX(0)" : "translateX(50px)", 
                                 opacity: isOpen ? 1 : 0,
                             }}
                         >

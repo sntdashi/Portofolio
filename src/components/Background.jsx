@@ -9,7 +9,7 @@ const AnimatedBackground = () => {
 		{ x: 20, y: -8 },
 	]
 
-	useEffect(() => {
+	useEffect(() => { 
 		let currentScroll = 0
 		let requestId
 

@@ -13,7 +13,7 @@ const LoadingScreen = () => {
           </div>
         </div>
       </div>
-    </div>
+    </div> 
   );
 };
 
