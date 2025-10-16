@@ -28,7 +28,7 @@ const MainTitle = memo(() => (
           Developer
         </span>
         <span className="relative bg-gradient-to-r from-white via-blue-100 to-purple-200 bg-clip-text text-transparent">
-         &Network
+         & Network
         </span>
       </span>
       <br />
