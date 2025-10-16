@@ -80,7 +80,7 @@ const PAUSE_DURATION = 2000;
 const WORDS = ["Network & Telecom Student", "Tech Enthusiast"];
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/snydashi" },
+  { icon: Github, link: "https://github.com/sntdashi" },
   { icon: Linkedin, link: "https://www.linkedin.com/in/Rauzzan/" },
   { icon: Instagram, link: "https://www.instagram.com/rawrznf_/?hl=id" }
 ];
