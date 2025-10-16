@@ -153,7 +153,7 @@ const WelcomeScreen = ({ onLoadingComplete }) => {
               >
                 <a
                   href="https://www.rawrzn.my.id"
-                  className="inline-flex items-center gap-2 px-4 py-2 sm:px-6 sm:py-3 rounded-full relative group hover:scale-105 transition-transform duration-300"
+                  className="inline-flex items-center gap-2 px-4 py-2 sm:px-6 sm:py-3 rounded-full relative group hover:scale-105 transition-transform duration-250"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
