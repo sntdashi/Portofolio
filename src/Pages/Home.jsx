@@ -80,12 +80,12 @@ const SocialLink = memo(({ icon: Icon, link }) => (
 const TYPING_SPEED = 100;
 const ERASING_SPEED = 50;
 const PAUSE_DURATION = 2000;
-const WORDS = ["Network & Telecom Student", "Tech Enthusiast"];
-const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
+const WORDS = ["Networking & Progamming", "Tech Enthusiast"];
+const TECH_STACK = ["React", "Javascript", "Node.js", "Netwroking"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/sntdashi" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/Rauzzan/" },
-  { icon: Instagram, link: "https://www.instagram.com/rawrznf_/?hl=id" }
+  { icon: Linkedin, link: "https://www.linkedin.com/in/rawrzn/" },
+  { icon: Instagram, link: "https://www.instagram.com/rawrznf/?hl=id" }
 ];
 
 const Home = () => {
