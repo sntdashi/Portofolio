@@ -28,7 +28,7 @@ export default function NotFoundPage() {
             Oops! Halaman Tidak Ditemukan
           </h2>
           <p className="text-lg text-gray-600 max-w-md mx-auto leading-relaxed">
-            Halaman yang Anda cari mungkin telah dipindahkan, dihapus, atau tidak pernah ada.
+            Halaman yang Anda cari mungkin telah dipindahkan, dihapus, atau tidak pernah ada seperti perasaan dia padamu.
           </p>
         </div>
 
