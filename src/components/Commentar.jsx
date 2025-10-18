@@ -445,11 +445,11 @@ const Komentar = () => {
                     border-radius: 6px;
                 }
                 .custom-scrollbar::-webkit-scrollbar-thumb {
-                    background: rgba(99, 102, 241, 0.5);
+                    background: rgba(99, 156, 241, 0.5);
                     border-radius: 6px;
                 }
                 .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-                    background: rgba(99, 102, 241, 0.7);
+                    background: rgba(99, 144, 241, 0.7);
                 }
             `}</style>
         </div>
