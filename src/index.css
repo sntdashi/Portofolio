@@ -57,14 +57,14 @@ body {
   }
   
   ::-webkit-scrollbar-thumb {
-	background: rgba(99, 102, 241, 0.3);
+	background: rgba(99, 144, 241, 0.3);
 	backdrop-filter: blur(4px);
 	-webkit-backdrop-filter: blur(4px);
 	border-radius: 20px;
 	border: 1px solid rgba(255, 255, 255, 0.1);
 	box-shadow: 
-	  inset 0 0 20px rgba(168, 85, 247, 0.2),
-	  0 0 10px rgba(99, 102, 241, 0.2);
+	  inset 0 0 20px rgba(85, 142, 247, 0.2),
+	  0 0 10px rgba(99, 149, 241, 0.2);
 	transition: all 0.3s ease;
   }
   
