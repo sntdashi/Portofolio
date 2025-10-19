@@ -2,7 +2,7 @@
 
 Hello everyoneee\! 👋
 
-Let me introduce myself, I'm **Rauzzan Muhamad Fikri**. On this occasion, I'd like to share the portfolio website project that I've developed.
+Let me introduce myself, I'm **Rauzzzzzzzzzzzan Muhamad Fikri**. On this occasion, I'd like to share the portfolio website project that I've developed.
 
 ## 🚀 Live Demo
 
