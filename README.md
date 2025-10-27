@@ -6,7 +6,7 @@ Let me introduce myself, I'm **Rauzzzzzzzzzzzan Muhamad Fikri**. On this occasio
 
 ## 🚀 Live Demo
 
-**Website Link:** [https://portofolio-rauzzan.vercel.app/](https://portofolio-rauzzan.vercel.app/)
+**Website Link:** [https://rawrzn.my.id](https://rawrzn.my.id)
 
 ## 🛠️ Tech Stack
 
