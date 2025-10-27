@@ -47,7 +47,7 @@ export default function NotFoundPage() {
           >
             <ArrowLeft size={20} />
             Kembali
-          </button>
+          </button> 
           
           <button
             onClick={handleGoHome}

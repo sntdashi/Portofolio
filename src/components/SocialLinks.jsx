@@ -41,7 +41,7 @@ const socialLinks = [
   {
     name: "GitHub",
     displayName: "Github",
-    subText: "@sntadashi",
+    subText: "@sntdashi",
     icon: Github,
     url: "https://github.com/sntdashi",
     color: "#ffffff",
